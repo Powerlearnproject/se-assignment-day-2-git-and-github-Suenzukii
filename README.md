@@ -194,6 +194,9 @@ git push -u origin main
  Finally verify my Commit on GitHub
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+Branching in Git is a powerful feature that allows developers to work on separate lines of development simultaneously.
+
+
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
